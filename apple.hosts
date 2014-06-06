@@ -1,3 +1,18 @@
+# swdist
+124.232.148.78  swdist.apple.com
+182.118.12.165  swdist.apple.com
+220.181.64.182  swdist.apple.com
+124.95.150.197  swdist.apple.com
+
+# itunes
+221.228.64.48   itunes.apple.com
+218.59.209.150  itunes.apple.com
+58.215.107.24   itunes.apple.com
+119.188.139.200 itunes.apple.com
+221.228.64.38   itunes.apple.com
+122.143.24.10   itunes.apple.com
+
+# a{1-2000}.phobos.apple.com
 27.195.145.15 a1.phobos.apple.com
 123.235.32.2 a2.phobos.apple.com
 61.164.153.7 a3.phobos.apple.com
@@ -1998,17 +2013,3 @@
 58.216.31.229 a1998.phobos.apple.com
 123.235.32.2 a1999.phobos.apple.com
 58.215.107.11 a2000.phobos.apple.com
-
-182.118.12.165 swdist.apple.ccgslb.net
-124.95.150.197 swdist.apple.ccgslb.net
-124.232.148.78 swdist.apple.ccgslb.net
-220.181.64.182 swdist.apple.ccgslb.net
-
-218.59.209.150 itunes.apple.ccgslb.com.cn
-60.217.241.202 itunes.apple.ccgslb.com.cn
-119.188.139.200 itunes.apple.ccgslb.com.cn
-221.228.64.38 itunes.apple.ccgslb.com.cn
-58.215.107.24 itunes.apple.ccgslb.com.cn
-122.228.85.37 itunes.apple.ccgslb.com.cn
-
-17.152.19.127 contentdelivery.itunes.apple.com
